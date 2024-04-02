@@ -22,6 +22,9 @@ UNSUPPORTED_DEVICES = [
     "E3_FloorHeatingCircuitDistributorBox",
     "E3_RoomControl_One_522",
     "E3_RoomSensor",
+    "E3_TCU10_x07",
+    "E3_HEMS",
+    "E3_EEBus",
 ]
 
 DEVICE_LIST = "device_list"
